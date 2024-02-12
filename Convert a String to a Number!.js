@@ -11,17 +11,17 @@ Examples
 "-7" --> -7
 */
 
-//! solution 1
+//! **solution 1**
 // const stringToNumber = function(str){
 //     return str-0;
 //   }
 
-//! solution 2
+//! **solution 2**
 // const stringToNumber = function(str){
 //     return Number(str);
 // }
 
-//! solution 3 
+//! **solution 3** 
 // const stringToNumber = function(str){
 //     return parseInt(str);
 // }
